@@ -14,7 +14,7 @@
 ## 2. 安装步骤
 
 + 有Android Studio等安卓开发环境的同学可以直接自己打包。
-+ 无开发环境同学可以下载Archive版本，但是安装时候需要自己在手机上勾选已知风险，因为该程序只是Demo未备案。
++ 无开发环境同学可以点击下载Archive[魔法计算器下载](https://github.com/2Stephen/magic_calculator/releases/download/v1.0.0/magic_calculator.apk)，但是安装时候需要自己在手机上勾选已知风险，因为该程序只是Demo未备案。
 
 ## 3. 其他
 
